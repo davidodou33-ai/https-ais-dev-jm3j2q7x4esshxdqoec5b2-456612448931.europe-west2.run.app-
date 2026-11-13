@@ -1,0 +1,6 @@
+{
+  "name": "ConsulPass — Demande de Visa en Ligne",
+  "description": "Portail de dépôt de demande de visa électronique, vérification des pièces justificatives, calcul des frais consulaires et suivi de dossier en ligne.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
